@@ -1,3 +1,7 @@
+//how about merge?
+
+
+
 #include <iostream>  
 
 #include <ctime>    // 무작위적인 수를 뽑기 위한 헤더파일
